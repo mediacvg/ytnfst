@@ -1,0 +1,6 @@
+# Garmin in Rungap
+USER-AGENT,*garmin*
+USER-AGENT,garmin*
+DOMAIN-KEYWORD,garmin
+DOMAIN-SUFFIX,garmin.com
+DOMAIN-SUFFIX,garmincdn.com
