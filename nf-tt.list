@@ -11,6 +11,11 @@ DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
 
+# user-defined
+USER-AGENT,myheritage*
+DOMAIN-SUFFIX,myheritage.com
+
+
 # Netflix
 USER-AGENT,Argo*
 DOMAIN-SUFFIX,fast.com
