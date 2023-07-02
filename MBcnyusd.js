@@ -3,7 +3,7 @@
 [Panel]
 CNYUSD = script-name=CNYUSD,update-interval=43200
 [Script]
-CNYUSD = type=generic,timeout=10,script-path=https://github.com/Keywos/rule/raw/main/JS/MBcnyusd.js
+CNYUSD = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/mediacvg/ytnfst/main/MBcnyusd.js
  * @author: Peng-YM
  * @Alter: chxm1023
  * 更新地址：https://raw.githubusercontent.com/chxm1023/Task/main/hljk.js
