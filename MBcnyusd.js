@@ -20,9 +20,9 @@ const $ = API("exchange");
 const currencyNames = {
     CNY: ["人民币", "🇨🇳"],
     USD: ["美元", "🇺🇸"],
-    MOP: ["澳门", "🇲🇴"],
+    MOP: ["澳门元", "🇲🇴"],
     JPY: ["日元", "🇯🇵"],
-    NZD: ["新西兰“, "🇳🇿"],
+    NZD: ["纽币“, "🇳🇿"],
     TRY: ["里拉", "🇹🇷"],
 };
 //.toString().padEnd(8, " ")
