@@ -2,5 +2,6 @@
 USER-AGENT,*javdb*
 USER-AGENT,javdb*
 DOMAIN-KEYWORD,javdb
+DOMAIN-KEYWORD,jdbstatic
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,jdbstatic.com
