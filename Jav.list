@@ -1,0 +1,5 @@
+# javdb\javbus
+USER-AGENT,*javdb*
+USER-AGENT,javdb*
+DOMAIN-KEYWORD,javdb
+DOMAIN-SUFFIX,javdb.com
