@@ -1,0 +1,5 @@
+# OCBC
+USER-AGENT,*ocbc*
+USER-AGENT,ocbc*
+DOMAIN-KEYWORD,ocbc
+DOMAIN-SUFFIX,ocbc.com
