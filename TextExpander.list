@@ -1,0 +1,6 @@
+# textexpander
+USER-AGENT,*textexpander*
+USER-AGENT,textexpander*
+DOMAIN-KEYWORD,textexpander
+DOMAIN-KEYWORD,textexpander
+DOMAIN-SUFFIX,textexpander.com
