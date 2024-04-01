@@ -3,3 +3,40 @@ USER-AGENT,*ocbc*
 USER-AGENT,ocbc*
 DOMAIN-KEYWORD,ocbc
 DOMAIN-SUFFIX,ocbc.com
+
+# iFast
+USER-AGENT,*ifast*
+USER-AGENT,ifast*
+DOMAIN-KEYWORD,ifast
+DOMAIN-SUFFIX,ifastgb.com
+
+# FSMone
+USER-AGENT,*fundsupermart*
+USER-AGENT,*fsmone*
+USER-AGENT,fundsupermart*
+DOMAIN-KEYWORD,fundsupermart
+DOMAIN-SUFFIX,fundsupermart.com
+
+# TNG
+USER-AGENT,*touchngo*
+USER-AGENT,touchngo*
+DOMAIN-KEYWORD,touchngo
+DOMAIN-SUFFIX,touchngo.com.my
+
+# Nexo
+USER-AGENT,*nexo*
+USER-AGENT,nexo*
+DOMAIN-KEYWORD,nexo
+DOMAIN-SUFFIX,nexo.com
+
+#Moomoo
+USER-AGENT,*moomoo*
+USER-AGENT,moomoo*
+DOMAIN-KEYWORD,moomoo
+DOMAIN-SUFFIX,moomoo.com
+
+#Longbridge
+USER-AGENT,*longbridge*
+USER-AGENT,longbridge*
+DOMAIN-KEYWORD,longbridge
+DOMAIN-SUFFIX,longbridge.hk
