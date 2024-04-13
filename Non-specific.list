@@ -1,0 +1,10 @@
+# shuzijumin forum
+USER-AGENT,*shuzijumin*
+DOMAIN-KEYWORD,shuzijumin
+DOMAIN-SUFFIX,shuzijumin.com
+
+# nodeseek forum
+USER-AGENT,*nodeseek*
+DOMAIN-KEYWORD,nodeseek
+DOMAIN-SUFFIX,nodeseek.com
+
