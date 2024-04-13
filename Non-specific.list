@@ -8,3 +8,7 @@ USER-AGENT,*nodeseek*
 DOMAIN-KEYWORD,nodeseek
 DOMAIN-SUFFIX,nodeseek.com
 
+# textexpander
+USER-AGENT,*textexpander*
+DOMAIN-KEYWORD,textexpander
+DOMAIN-SUFFIX,textexpander.com
