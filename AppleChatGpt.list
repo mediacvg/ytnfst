@@ -1,4 +1,5 @@
 # ChatGPT
-DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,apple-relay.apple.com
+DOMAIN-SUFFIX,relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
-DOMAIN-KEYWORD,apple-relay
