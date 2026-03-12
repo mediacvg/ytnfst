@@ -1,0 +1,18 @@
+# --- 基础系统服务 (时间、网络检测、配置) ---
+DOMAIN-SUFFIX,time.apple.com
+DOMAIN-SUFFIX,time-ios.apple.com
+DOMAIN-SUFFIX,time-macos.apple.com
+DOMAIN-SUFFIX,captive.apple.com
+DOMAIN-SUFFIX,gs-loc.apple.com
+DOMAIN-SUFFIX,configuration.apple.com
+
+# --- 国内版服务 (云上贵州、苹果中国) ---
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,apple-dns.net
+
+# --- 系统更新、推送与地图资源 ---
+DOMAIN-SUFFIX,swcdn.apple.com
+DOMAIN-SUFFIX,swdist.apple.com
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-KEYWORD,push.apple.com
