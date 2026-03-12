@@ -1,0 +1,17 @@
+# --- Apple Intelligence (AI 推理与 API) ---
+DOMAIN-SUFFIX,api.apple-hub.com
+DOMAIN-SUFFIX,intelligence.apple.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-KEYWORD,apple-relay
+
+# --- iCloud 核心同步与大文件下载 ---
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,api.apple-cloudkit.com
+
+# --- 身份验证、照片渲染与位置增强 ---
+DOMAIN-SUFFIX,appleid.apple.com
+DOMAIN-SUFFIX,gsa.apple.com
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
