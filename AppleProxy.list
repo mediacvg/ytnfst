@@ -3,6 +3,11 @@ DOMAIN-SUFFIX,api.apple-hub.com
 DOMAIN-SUFFIX,intelligence.apple.com
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,apple-relay.akamaized.net
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,cp4.cloudflare.com
+DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-KEYWORD,apple-relay
 
 # --- iCloud 核心同步与大文件下载 ---
