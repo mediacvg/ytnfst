@@ -1,7 +1,10 @@
 # javdb\javbus
 USER-AGENT,*javdb*
 USER-AGENT,javdb*
+USER-AGENT,*missav*
+DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,javdb
 DOMAIN-KEYWORD,jdbstatic
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,jdbstatic.com
+DOMAIN-SUFFIX,missav.tv
