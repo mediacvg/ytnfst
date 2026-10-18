@@ -1,0 +1,7 @@
+# av
+USER-AGENT,*fanza*
+USER-AGENT,fanza*
+DOMAIN-KEYWORD,fanza
+DOMAIN-KEYWORD,dmm
+DOMAIN-SUFFIX,fanza.jp
+DOMAIN-SUFFIX,dmm.co.jp
