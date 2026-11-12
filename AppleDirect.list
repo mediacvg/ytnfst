@@ -6,13 +6,14 @@ DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,gs-loc.apple.com
 DOMAIN-SUFFIX,configuration.apple.com
 
+# --- Siri 语音主网关必须真实 IP 直连（严禁走代理或 Fake-IP，否则必报无法连接网络） ---
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,siri.apple.com
+DOMAIN,dejavu.apple.com
+DOMAIN,sequoia.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+
 # --- 国内版服务 (云上贵州、苹果中国) ---
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,apple-dns.net
-
-# --- 系统更新、推送与地图资源 ---
-DOMAIN-SUFFIX,swcdn.apple.com
-DOMAIN-SUFFIX,swdist.apple.com
-DOMAIN-SUFFIX,ls.apple.com
-DOMAIN-KEYWORD,push.apple.com
